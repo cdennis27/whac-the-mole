@@ -43,18 +43,18 @@ body {
 @media screen and (max-width: 1200px) {
 
     #board {
-        width: 42vw;
-        height: 42vw;
+        width: 60vw;
+        height: 60vw;
     }
 
     #board div {
-        width: 14vw;
-        height: 14vw;
+        width: 20vw;
+        height: 20vw;
     }
 
     #board div img {
-        width: 8vw;
-        height: 8vw;
+        width: 12vw;
+        height: 12vw;
     }
 
 }
@@ -63,18 +63,18 @@ body {
 @media screen and (max-width: 660px) {
 
     #board {
-        width: 90vw;
-        height: 90vw;
+        width: 96vw;
+        height: 96vw;
     }
 
     #board div {
-        width: 30vw;
-        height: 30vw;
+        width: 32vw;
+        height: 32vw;
     }
 
     #board div img {
-        width: 20vw;
-        height: 20vw;
+        width: 17vw;
+        height: 17vw;
     }
 
 }
