@@ -40,4 +40,43 @@ body {
     -webkit-user-drag: none;
 }
 
+@media screen and (max-width: 1200px) {
+
+    #board {
+        width: 42vw;
+        height: 42vw;
+    }
+
+    #board div {
+        width: 14vw;
+        height: 14vw;
+    }
+
+    #board div img {
+        width: 8vw;
+        height: 8vw;
+    }
+
+}
+
+
+@media screen and (max-width: 660px) {
+
+    #board {
+        width: 90vw;
+        height: 90vw;
+    }
+
+    #board div {
+        width: 30vw;
+        height: 30vw;
+    }
+
+    #board div img {
+        width: 20vw;
+        height: 20vw;
+    }
+
+}
+
 
